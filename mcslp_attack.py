@@ -1,8 +1,6 @@
 """Material-response consensus spectral-library poisoning with MOEA/D.
 
-This release contains only the paper's complete MCSLP attack algorithm.  Proxy
-unmixers are supplied by the caller through ``proxy_runner``; no dataset loader,
-real data, or unmixing implementation is bundled here.
+This release contains only the paper's complete MCSLP attack algorithm. 
 """
 
 from __future__ import annotations
