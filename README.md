@@ -1,6 +1,5 @@
 # MCSLP spectral-library poisoning attack
 
-This package contains the complete attack algorithm reported in the ESWA manuscript:
 Material-Response Consensus Spectral Library Poisoning (MCSLP), implemented with
 MOEA/D. It modifies a small number of library spectra using smooth cosine-basis
 perturbations, enforces reflectance, amplitude, spectral-angle, and roughness
