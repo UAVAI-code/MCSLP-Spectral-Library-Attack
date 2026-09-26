@@ -6,10 +6,6 @@ perturbations, enforces reflectance, amplitude, spectral-angle, and roughness
 constraints, scores material-response changes across proxy unmixers, and performs
 complete-image reevaluation before selecting the final candidate.
 
-The package intentionally contains **algorithm code only**. It does not include
-real or synthetic datasets, dataset loaders, other unmixing algorithms, baseline
-implementations, ablation code, NSGA-II/random-search variants, figures, or
-experiment scripts.
 
 ## Interface
 
